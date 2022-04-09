@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I am **Punit Lodha**, a computer engineering student from Mumbai. I have worked as a frontend developer and an UI/UX designer. I have been experimenting with [Rust](https://www.rust-lang.org/) and was selected as a GSoC student with [CCExtractor](https://ccextractor.org/) for a [project](https://summerofcode.withgoogle.com/projects/#5980303367077888) in rust. I have also been exploring [distributed systems](http://nil.csail.mit.edu/6.824/2020/), networks, compilers, media processing. In my free time you'll find me reading books and web comics, watching TV shows and ricing my linux desktop :)
+
+<!--
+<div align="center">
+  <a href = 'https://linkedin.com/in/punitlodha'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>    
+  <a href = 'https://www.github.com/punitlodha'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>   
+</div>
+-->
